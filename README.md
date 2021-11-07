@@ -2,7 +2,10 @@
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://phdev.netlify.app/)
 
-![PauloRev GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRev&show_icons=true&theme=dracula)
+![PauloRev GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRev&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRev&layout=compact)](https://github.com/PauloRev/github-readme-stats)
+
 
 ## Tecnologias que uso diariamente
 
