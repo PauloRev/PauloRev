@@ -23,5 +23,4 @@
 - 🎮 Jogos
 - 🎬 Filmes
 - 🎶 Música
-- 📚 Livros
 - 💻 Estudar
