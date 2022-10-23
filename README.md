@@ -1,4 +1,10 @@
-### Olá! Me chamo Paulo Henrique, sou Desenvolvedor **Front-End** e **Mobile**. 👋
+### A little bit about me.
+
+<p>
+Hi there 👋🏻
+<br/>
+I'm Paulo Henrique, Front-End Web & Mobile Developer, working over React.Js ecosystem.
+</p>
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://phdev.netlify.app/)
 
