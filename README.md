@@ -3,7 +3,7 @@
 ### 👨🏽‍💻 A little bit about me.
 
 <p>
-Hi there 👋🏻
+Hi there 👋🏽
 <br/>
 I'm Paulo Henrique, Front-End Web & Mobile Developer, working over React.Js and React Native ecosystem.
 </p>
