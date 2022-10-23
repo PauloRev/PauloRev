@@ -1,4 +1,7 @@
 <img src="https://i.imgur.com/wF8frUa.png" >
+<p align="center">
+  <a href="https://phdev.netlify.app/">Website</a> • <a href="https://www.instagram.com/pauloh_dev/">Instagram</a>
+</p>
 
 ### 👨🏽‍💻 A little bit about me.
 
@@ -21,7 +24,6 @@ I'm Paulo Henrique, Front-End Web & Mobile Developer, working over React.Js and 
   </span>
 </p>
 
-[![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://phdev.netlify.app/)
 
 ![PauloRev GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRev&show_icons=true&theme=react)
 
