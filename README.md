@@ -9,7 +9,7 @@ I'm Paulo Henrique, Front-End Web & Mobile Developer, working over React.Js ecos
 <p>
   My favourites tools: 
   <span>
-    <img src="https://camo.githubusercontent.com/b172115921440aaf2a2ddf79b5d0c9563c2e260fdf7857077b5704a3f97e6b89/68747470733a2f2f692e6962622e636f2f505a32585a67722f74732e706e67" width="100px" /> TypeScript,
+    <img src="https://camo.githubusercontent.com/b172115921440aaf2a2ddf79b5d0c9563c2e260fdf7857077b5704a3f97e6b89/68747470733a2f2f692e6962622e636f2f505a32585a67722f74732e706e67" style="max-width: 40px; width: 100%;" /> TypeScript,
   </span>
 </p>
 
