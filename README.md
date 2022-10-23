@@ -8,7 +8,7 @@
 <p>
 Hi there 👋🏽
 <br/>
-I'm Paulo Henrique, Front-End Web & Mobile Developer, working over React.Js and React Native ecosystem.
+I'm Paulo Henrique, Front-End Web & Mobile Developer, working over ReactJs and React Native ecosystem.
 </p>
 
 <p>
