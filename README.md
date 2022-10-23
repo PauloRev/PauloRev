@@ -1,4 +1,6 @@
-### A little bit about me.
+<img src="https://i.imgur.com/wF8frUa.png" >
+
+### 👨🏽‍💻 A little bit about me.
 
 <p>
 Hi there 👋🏻
