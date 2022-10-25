@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/wF8frUa.png" >
+<img src="https://i.imgur.com/SHI2mPS.png" >
 <p align="center">
-  <a href="https://phdev.netlify.app/">Website</a> • <a href="https://www.instagram.com/pauloh_dev/">Instagram</a>
+  • <a href="https://phdev.netlify.app/">Website</a> •
 </p>
 
 ### 👨🏽‍💻 A little bit about me.
