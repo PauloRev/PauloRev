@@ -23,5 +23,3 @@ I'm Paulo Henrique, Front-End Web & Mobile Developer, working over React Js and 
     <img src="https://camo.githubusercontent.com/5f199ce2d9e9cf6aed9696cda96b3de0dfa8900c165104a51e886289e12c4789/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67" width="20" style="max-width: 100%;" /> Node Js
   </span>
 </p>
-
-![PauloRev GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRev&show_icons=true&theme=github_dark)
