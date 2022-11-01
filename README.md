@@ -24,4 +24,4 @@ I'm Paulo Henrique, Front-End Web & Mobile Developer, working over React Js and 
   </span>
 </p>
 <br/>
-![PauloRev GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRev&show_icons=true&theme=github_dark)
+![PauloRev GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRev&show_icons=true&theme=dracula)
