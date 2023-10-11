@@ -24,7 +24,7 @@ I'm Paulo Henrique, Frontend Software Engineer focused in mobile development, wo
   </span>
 </p>
 
-<hr />
+<div style="width: 100%; height: 2px; border-radius: 2px; background: #eee;"></div>
 
 <p>
   <ul>
