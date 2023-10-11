@@ -23,12 +23,3 @@ I'm Paulo Henrique, Frontend Software Engineer focused in mobile development, wo
     <img src="https://camo.githubusercontent.com/5f199ce2d9e9cf6aed9696cda96b3de0dfa8900c165104a51e886289e12c4789/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67" width="20" style="max-width: 100%;" /> Node Js
   </span>
 </p>
-
-<div style="width: 100%; height: 2px; border-radius: 2px; background: #eee;"></div>
-
-<p>
-  <ul>
-    <li>Thanks for visiting.</li>
-    <li>Enjoy it!!</li>
-  </ul>
-</p>
