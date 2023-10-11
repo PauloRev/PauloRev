@@ -8,7 +8,7 @@
 <p>
 Hi there 👋🏽
 <br/>
-I'm Paulo Henrique, Frontend Software Engineer focused in mobile development, working over React Js and React Native ecosystem.
+I'm Paulo Henrique, Frontend Software Engineer focused in Mobile Development, working over React Js and React Native ecosystem.
 </p>
 
 <p>
