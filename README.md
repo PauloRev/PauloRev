@@ -24,6 +24,8 @@ I'm Paulo Henrique, Frontend Software Engineer focused in mobile development, wo
   </span>
 </p>
 
+<hr />
+
 <p>
   <ul>
     <li>Thanks for visiting.</li>
